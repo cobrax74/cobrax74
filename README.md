@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cobrax74
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord cobraX#5197
+- 📫 You can reach me on discord cobraX#5197
 
 <!---
 cobrax74/cobrax74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
