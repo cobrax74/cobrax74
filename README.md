@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cobrax74
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML and working on a site
 - 📫 You can reach me on discord cobraX#5197
 
 <!---
